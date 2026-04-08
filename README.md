@@ -1,6 +1,8 @@
 # weighted_CVE
 
-This repository contains the simulation code for the weighted controlled risk and controlled vaccine efficacy analyses.
+This repository contains the simulation code for paper 'Dealing with positivity violations in mediation analysis via weighted
+  controlled effects, with application to assessing immune correlates of
+  protection in antigen-experienced participants'.
 
 ## Structure
 
