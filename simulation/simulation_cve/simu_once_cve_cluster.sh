@@ -8,7 +8,7 @@
 
 ## turn on e-mail notification
 #SBATCH --mail-type=ALL
-#SBATCH --mail-user=heqj3@uw.edu
+#SBATCH --mail-user=xxx
 
 ml R/4.4.2-gfbf-2024a 
 R CMD BATCH --no-save simu_once_cve_cluster.R Rout/simu_once_cluster_${SLURM_ARRAY_TASK_ID}.Rout
