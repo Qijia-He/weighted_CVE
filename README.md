@@ -1,4 +1,4 @@
-# weighted_CVE
+# Dealing with positivity violations in mediation analysis via weighted controlled effects, with application to assessing immune correlates of protection in antigen-experienced participants
 
 This repository contains the simulation code for paper 'Dealing with positivity violations in mediation analysis via weighted
   controlled effects, with application to assessing immune correlates of
